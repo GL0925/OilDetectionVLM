@@ -4,6 +4,16 @@
 
 [English](README.md) | 中文
 
+## 项目简介
+
+本项目对 Qwen3-VL-8B 进行微调，实现SAR溢油检测的结构化输出。工作流程：
+
+1. **结构化标签生成**：从mask标注中提取溢油标签（是否存在、区域数量、位置）
+2. **CoT训练数据**：使用 Qwen-3.7-Max 生成链式思维推理数据
+3. **LoRA微调**：在生成的数据上微调 Qwen-VL-8B
+
+**结果**：微调后的模型在所有指标上超越原生 Qwen-3.7-Max。
+
 ## 环境依赖
 
 ```bash
@@ -14,6 +24,64 @@ transformers
 matplotlib
 Pillow
 ```
+
+## 数据集
+
+```
+data/oil_datasets_split/
+├── train.json              # 训练VQA数据
+├── train_labels.json       # 训练结构化标签
+├── train/
+│   ├── os/                 # 有溢油的图片
+│   │   └── image/
+│   └── no_os/              # 无溢油的图片
+│       └── image/
+├── test.json               # 测试VQA数据
+├── test_labels.json        # 测试结构化标签
+└── test/
+    ├── os/
+    └── no_os/
+```
+
+**数据格式：**
+
+train.json（VQA格式）：
+```json
+{
+  "image": "图片路径",
+  "conversations": [
+    {"role": "user", "content": "<image>\n...提示词..."},
+    {"role": "assistant", "content": "<analysis>...</analysis>\n<answer>...</answer>"}
+  ]
+}
+```
+
+train_labels.json（结构化标签）：
+```json
+{
+  "image": "图片路径",
+  "os": true,
+  "num": 2,
+  "location": [0, 3, 4]
+}
+```
+
+位置编码：0=左上, 1=中上, 2=右上, 3=左中, 4=正中, 5=右中, 6=左下, 7=中下, 8=右下
+
+## 配置说明
+
+`config.py` 主要参数：
+
+| 参数 | 默认值 | 说明 |
+|------|--------|------|
+| EPOCHS | 5 | 训练轮次 |
+| BATCH_SIZE | 1 | 每GPU batch大小 |
+| GRADIENT_ACCUMULATION_STEPS | 8 | 梯度累积步数 |
+| LEARNING_RATE | 1e-4 | 学习率 |
+| LORA_R | 64 | LoRA秩 |
+| LORA_ALPHA | 128 | LoRA alpha |
+| LORA_DROPOUT | 0.05 | LoRA dropout |
+| CUDA_VISIBLE_DEVICES | "4,5" | GPU设备 |
 
 ## 快速开始
 

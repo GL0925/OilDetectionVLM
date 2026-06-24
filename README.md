@@ -4,6 +4,16 @@ Qwen3-VL-8B + LoRA based fine-tuning for SAR oil spill detection.
 
 English | [中文](README_CN.md)
 
+## Overview
+
+This project fine-tunes Qwen3-VL-8B for SAR oil spill detection with structured output. The workflow:
+
+1. **Structured Label Generation**: Extract oil spill labels (existence, count, location) from mask annotations
+2. **CoT Training Data**: Use Qwen-3.7-Max to generate chain-of-thought reasoning data
+3. **LoRA Fine-tuning**: Fine-tune Qwen3-VL-8B on the generated data
+
+**Result**: Fine-tuned model outperforms native Qwen-3.7-Max on all metrics.
+
 ## Requirements
 
 ```bash
@@ -14,6 +24,64 @@ transformers
 matplotlib
 Pillow
 ```
+
+## Dataset
+
+```
+data/oil_datasets_split/
+├── train.json              # Training VQA data
+├── train_labels.json       # Training structured labels
+├── train/
+│   ├── os/                 # Images with oil spill
+│   │   └── image/
+│   └── no_os/              # Images without oil spill
+│       └── image/
+├── test.json               # Test VQA data
+├── test_labels.json        # Test structured labels
+└── test/
+    ├── os/
+    └── no_os/
+```
+
+**Data Format:**
+
+train.json (VQA format):
+```json
+{
+  "image": "path/to/image.png",
+  "conversations": [
+    {"role": "user", "content": "<image>\n...prompt..."},
+    {"role": "assistant", "content": "<analysis>...</analysis>\n<answer>...</answer>"}
+  ]
+}
+```
+
+train_labels.json (Structured labels):
+```json
+{
+  "image": "path/to/image.png",
+  "os": true,
+  "num": 2,
+  "location": [0, 3, 4]
+}
+```
+
+Location codes: 0=top-left, 1=top-center, 2=top-right, 3=center-left, 4=center, 5=center-right, 6=bottom-left, 7=bottom-center, 8=bottom-right
+
+## Configuration
+
+Key parameters in `config.py`:
+
+| Parameter | Default | Description |
+|-----------|---------|-------------|
+| EPOCHS | 5 | Training epochs |
+| BATCH_SIZE | 1 | Batch size per GPU |
+| GRADIENT_ACCUMULATION_STEPS | 8 | Gradient accumulation |
+| LEARNING_RATE | 1e-4 | Learning rate |
+| LORA_R | 64 | LoRA rank |
+| LORA_ALPHA | 128 | LoRA alpha |
+| LORA_DROPOUT | 0.05 | LoRA dropout |
+| CUDA_VISIBLE_DEVICES | "4,5" | GPU devices |
 
 ## Quick Start
 
