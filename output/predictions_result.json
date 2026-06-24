@@ -1,0 +1,24 @@
+{
+  "total_samples": 129,
+  "detection": {
+    "accuracy": 0.9457,
+    "precision": 0.9889,
+    "recall": 0.9368,
+    "f1": 0.9622,
+    "tp": 89,
+    "fp": 1,
+    "tn": 33,
+    "fn": 6
+  },
+  "counting": {
+    "mae": 0.5426,
+    "exact_match_rate": 0.6124,
+    "evaluated": 129
+  },
+  "localization": {
+    "hit_rate": 0.8842,
+    "exact_match_rate": 0.4632,
+    "mean_iou": 0.686,
+    "evaluated": 95
+  }
+}

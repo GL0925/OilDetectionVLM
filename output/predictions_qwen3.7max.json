@@ -1,0 +1,518 @@
+[
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1031.png",
+    "response": "<analysis>\n图像左侧及中部存在大面积不规则暗色区域，后向散射显著减弱，纹理比周围正常海面平滑得多。暗区从左上延伸至左下并覆盖中部，边界清晰可辨，呈块状分布。右下角为高亮白色区域，可能为陆地或强反射区。暗色异常区域面积大、形态连续，符合典型溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：4\n3. 位置：左上、左中、左下、正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1092.png",
+    "response": "<analysis>\n图像中可见一条明显的暗色 elongated 不规则特征，从左下方向中部至右侧对角延伸。暗区边缘粗糙呈锯齿状，右端较厚实，整体呈条带状。周围海面灰度纹理较均匀，暗色区域后向散射明显降低，符合溢油在SAR图像中的暗色条带状表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左下、正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1100.png",
+    "response": "<analysis>\n图像整体灰度较均匀，呈细颗粒状纹理，但在左上角可见一小型不规则暗色形状，右下角有一条分支状暗色线状特征。这些暗色异常区域面积较小但边界可辨，后向散射略低于周围海面，可能为小范围溢油痕迹。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左上、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1116.png",
+    "response": "<analysis>\n图像整体为灰色颗粒状纹理海面，在左上角区域存在一条明显的暗色裂缝/裂隙状特征，后向散射减弱。右上角区域有较集中的白色斑点和分支状线性特征。主要暗色异常集中在左上角，形态呈块状/裂缝状，边界较清晰。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1153.png",
+    "response": "<analysis>\n图像整体为灰色噪声纹理海面，在左上区域可见一条垂直方向的不规则暗色线条，向下延伸约占图像高度的10-15%。该暗色特征后向散射减弱，纹理较周围海面平滑，形态呈条状，符合溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1173.png",
+    "response": "<analysis>\n图像左侧为明亮的白色区域（可能为陆地或浅水区），右侧为灰色纹理海面，两者之间存在清晰的垂直边界。在靠近中左部位置存在一个较集中的暗色不规则形状，后向散射减弱。该暗色异常位于海面区域，边界可辨，可能为溢油。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1192.png",
+    "response": "<analysis>\n图像左侧可见分支状线性特征（可能为船尾迹或海洋锋面），中下部存在一大面积暗色区域，后向散射显著减弱，纹理平滑。右上部分为较亮白色区域。暗色区域形态不规则呈块状，位于图像中下和左下部分，符合大面积溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：中下、左下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1195.png",
+    "response": "<analysis>\n图像左侧为纯白色区域（可能为陆地或数据缺失），右侧为灰色颗粒状纹理海面，两者边界呈锯齿状不规则。右侧海面区域存在灰度变化，部分区域后向散射较弱，暗色异常分布在右中和右上部分，边界与白色区域的交界处较为复杂。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右中、右上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1214.png",
+    "response": "<analysis>\n图像整体为灰色噪声纹理海面，在中上位置靠近顶部中心处存在一个小型不规则暗色形状，呈水滴/火焰状，边缘模糊柔和。该暗色异常后向散射减弱，形态呈椭圆/水滴状，符合小面积溢油在SAR中的表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1219.png",
+    "response": "<analysis>\n图像整体噪声较大，灰度变化不明显。在左中位置可见一对细长的微弯曲垂直暗色线条，后向散射略低于周围海面。中心底部有一个小亮点。暗色线性特征较细微，可能为窄条状溢油或船舶尾迹造成的暗区。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1239.png",
+    "response": "<analysis>\n图像为颗粒状黑白纹理，存在有机形态的不规则暗色线条和分支结构。下部左右两侧均有暗色区域分布，右下象限有一个明亮弯曲形状与暗色锯齿状区域相邻。暗色异常区域分布在左下和右下，纹理较周围海面平滑，符合溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左下、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1259.png",
+    "response": "<analysis>\n图像背景为密实颗粒状纹理，在中上位置存在一个显著的暗色 elongated 微弯曲形状，后向散射明显低于周围海面。左侧和中部的纹理较暗且颗粒密集，右侧逐渐变亮。暗色异常形态呈条状/椭圆状，边界可辨，为典型溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1263.png",
+    "response": "<analysis>\n图像整体背景偏暗，存在多个白色斑点和一条从下左向中心延伸的对角暗色裂缝状线条。中右位置有一个小型白色弯曲形状突出于暗色背景中。对角暗色线条为后向散射减弱的线性特征，可能为条带状溢油。暗色异常从左下延伸至正中区域。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左下、正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1265.png",
+    "response": "<analysis>\n图像灰色颗粒背景上分布多个暗色不规则形状：左上角有一个弯曲暗色形状伴有白色斑点，左侧中部有一个锯齿状黑色标记，中下部有一条微弱的elongated暗色曲线。中右偏下有一个小型明亮白色斑块。多处暗色异常后向散射减弱，符合多区域溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：左上、左中、中下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1275.png",
+    "response": "<analysis>\n图像浅灰色细颗粒背景上，左侧存在一组不规则的笔刷状暗色斑块，强度从中等到深黑不等。中部偏右有一条细长微弯的垂直暗色线条，由两个相邻暗色段组成。暗色区域后向散射明显减弱，呈块状和条状混合分布，符合溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左中、正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1276.png",
+    "response": "<analysis>\n图像灰色颗粒纹理背景上，左上象限有一个明亮的星状点（带十字衍射芒），右下部分有一条暗色窄线状特征从右下向中心方向延伸，边缘柔和。该暗色线性特征后向散射减弱，呈条带状，可能为窄条状溢油。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1277.png",
+    "response": "<analysis>\n图像为灰色噪声背景，散布多个明亮星状点（带衍射芒）。右下象限存在一个明显的暗色不规则区域，形似阴影坑洞。左下角有一个较小的暗色污迹。上部有微弱的对角条纹。暗色异常区域后向散射减弱，形态不规则，符合溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右下、左下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1284.png",
+    "response": "<analysis>\n图像整体为浅灰色细颗粒噪声纹理，几乎全幅均匀。仅在右下角有微弱的暗色污迹/痕迹，非常不明显。海面灰度基本均匀，暗色异常极微弱，但考虑到SAR图像中微弱暗区也可能指示薄油膜存在，判断为有少量溢油。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1320.png",
+    "response": "<analysis>\n图像为高度颗粒化噪声纹理，灰度变化范围从近黑到浅灰。左侧可见微弱的垂直条纹特征，但整体上海面纹理较为均一，无明显大面积极暗区域。左侧垂直条纹可能是成像条带效应而非溢油。综合判断海面灰度相对均匀，无显著暗色异常。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/142.png",
+    "response": "<analysis>\n图像中左部存在一个明亮的不规则白色区域（可能为陆地或强反射体），其左侧紧邻两个暗色矩形/块状标记，呈撕裂边缘状。从明亮区域向右延伸有微弱的对角梯度/条纹。暗色标记位于左中位置，后向散射减弱，形态呈块状，可能为溢油区域。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/143.png",
+    "response": "<analysis>\n图像左侧有一列从上至下的碎片化白色和黑色斑块区域，类似数据缺失或陆地边界。右侧为较均匀的灰色纹理海面。左侧暗色斑块可能是陆地或近岸结构，而非海面溢油。右侧海面灰度较均匀，无明显暗色异常区域。综合判断为无溢油。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1451.png",
+    "response": "<analysis>\n图像中左部存在一个显著的暗色水滴状物体，头部较宽，向下延伸出一条细长弯曲的尾部，尾部末端有轻微分支。这是一个形态完整的暗色异常区域，后向散射显著减弱，边界清晰。右下象限有一个较淡的暗色污迹。上方有明亮星状点（衍射芒）。主要暗色异常形态规则，符合典型椭圆形溢油带尾迹的SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左中、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/149.png",
+    "response": "<analysis>\n图像上半部分为灰色纹理海面区域，下半部分为纯白色（可能为陆地或冰面），两者边界呈不规则锯齿状。灰色海面区域中存在微弱的暗色线性污迹和散布的小暗点，主要分布在左上和中上区域。暗色异常较微弱但可辨识，后向散射略低于周围海面，可能为薄油膜。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左上、中上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1490.png",
+    "response": "<analysis>\n图像为浅灰色颗粒噪声背景，右侧分布三条明显的暗色垂直条纹：一条在右上角（短而细），一条在中右（较长较明显），一条在右下角（稍短）。这三条暗色异常后向散射减弱，呈窄条带状，形态规则，符合条带状溢油在SAR图像中的表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：右上、右中、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1518.png",
+    "response": "<analysis>\n图像为颗粒状灰度纹理，左上至中部有明亮区域和几个十字芒亮点（可能为船舶或平台强反射点）。右下象限存在多个暗色不规则形状，部分弯曲、部分锯齿状，形似坑洞或暗影。这些暗色区域后向散射减弱，形态不规则，符合溢油在SAR中的暗色异常特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/157.png",
+    "response": "<analysis>\n图像整体偏暗灰色，左侧有对角排列的明亮白色斑点（星状/噪声点），中部偏左有一条微弱的垂直亮色条带。右侧可见两条细长的暗色不规则线条：一条在右上象限较长较明显，一条在其下方较短呈锯齿状。暗色线条后向散射减弱，呈细条带状，可能为窄条状溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右上、右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/158.png",
+    "response": "<analysis>\nSAR图像呈现均匀的斜向网格状纹理，整体灰度一致，为典型的正常海面后向散射模式。在左侧可见两个微小的暗色斑点，一个稍大呈椭圆形位于左中偏上，另一个较小的圆形暗点在其下方。但这些暗色斑点极其微小，与背景纹理差异甚微，不构成明显的溢油异常。整体海面灰度均匀，无大范围后向散射减弱区域。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/159.png",
+    "response": "<analysis>\nSAR图像显示灰度纹理变化，具有水平和斜向条纹以及明暗交替的斑块。整体纹理呈颗粒状且不规则，但无明确的暗色异常区域与周围海面形成显著对比。明暗变化更像是海面风场或波浪引起的自然后向散射变化，而非溢油导致的平滑暗区。未见清晰可辨的溢油边界和典型形态。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/160.png",
+    "response": "<analysis>\nSAR图像左侧有一条显著的暗色垂直裂缝状线条，从靠近顶部处向下延伸；右侧靠近边缘处有另一条较弱的垂直裂缝。中心底部附近有一个明亮的星状闪光伪影。垂直暗色线条在SAR图像中可能代表传感器伪影或线性地物特征，而非典型的溢油形态。溢油通常呈椭圆、条带或块状暗区，而非极窄的垂直线。整体海面纹理以细粒噪声为主，无明显大面积暗色异常。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1631.png",
+    "response": "<analysis>\nSAR图像显示对角线条纹纹理背景，从左上至右下的方向有暗色条带。图像中分布着多个明亮的十字形衍射斑点（至少8个），主要集中在左下至中央区域，代表船只或平台等强散射目标。对角线暗色条带可能为海面风场自然变化或传感器条带效应，与周围纹理过渡平滑，缺乏清晰的溢油边界。整体海面后向散射特征未见典型的孤立暗色溢油区域。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/169.png",
+    "response": "<analysis>\nSAR图像中右中部存在一个显著的密集暗色区域，具有不规则的有机边界，后向散射明显减弱，纹理比周围海面更平滑。该暗色区域与周围较亮的颗粒状纹理形成明显对比，边界可辨识。左下和底部中心区域有较浅的弥散暗斑，但特征不够显著。中右部的主体暗色区域符合溢油的SAR特征——暗色异常、平滑纹理、清晰边界。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1894.png",
+    "response": "<analysis>\nSAR图像整体为均匀的灰色颗粒纹理背景。在图像中央附近有一条明显的暗色垂直微弯线条，后向散射减弱，呈线状形态。右上象限有若干微弱的白色细条纹和散点。中央的暗色垂直线条具有溢油线性特征的SAR表现——沿水流方向延伸的线状暗色 slick，后向散射减弱，边界可辨。其余海面区域灰度相对均匀。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/191.png",
+    "response": "<analysis>\nSAR图像上部为大面积白色空白区域，底部边缘有一个暗色不规则纹理区域，呈颗粒状，具有明暗变化。暗色区域与上方白色区域之间的边界不规则。暗色区域位于图像最底部，后向散射较强（相对于白色区域），纹理粗糙。白色区域可能代表数据缺失或极低后向散射区域。底部暗色区域的形态和位置不够典型，难以确认为溢油。整体图像信息量有限，未见典型溢油特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/195.png",
+    "response": "<analysis>\nSAR图像上半部存在大面积暗色不规则区域，具有水平条纹纹理和散落的暗斑，位于左上部。从下部左侧向中右方向延伸着一条对角线方向的暗色条带。下半部分为白色空白区域。左上部的暗色区域纹理较平滑，后向散射减弱，具有溢油覆盖的SAR特征。对角线暗色条带也呈现后向散射减弱，可能为油膜沿水流方向拉伸形成的条带状 slick。白色底部区域可能为数据缺失。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左上、左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/219.png",
+    "response": "<analysis>\nSAR图像整体呈灰色颗粒纹理，顶部边缘有大面积白色斑块（可能为数据缺失或压缩伪影）。中心偏右区域有一条微弱的暗色细线，但特征过于微弱，不足以确认为溢油。下部有零散的微小斑点和划痕。整体海面灰度较为均匀，无明显的后向散射减弱异常区域，未见典型的溢油形态特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/244.png",
+    "response": "<analysis>\nSAR图像受损严重，存在大面积白色数据缺失区域和像素化方块伪影，分布在左上、中心和右下。在残存的灰色纹理区域中，可观察到不规则的暗色斑块和有机纹理痕迹，暗示底层可能存在被遮挡的暗色异常。但由于图像严重退化，暗色区域的形态和边界难以准确判断。残存灰色区域（中上偏左）有不规则暗色痕迹，疑似溢油残留特征。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/254.png",
+    "response": "<analysis>\nSAR图像大部分为灰色颗粒纹理覆盖，右下角有一个不规则的白色锯齿状边界（可能为数据遮罩或裁剪边缘）。在左上方区域可见一条细长的暗色对角线条纹，后向散射减弱，呈线状形态。该暗色线条纹理较平滑，与周围灰色海面形成对比，可能代表一处线状溢油 slick。其余海面区域灰度相对均匀。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/255.png",
+    "response": "<analysis>\nSAR图像主体为中灰色颗粒纹理，右下角有不规则的白色锯齿状边界（数据遮罩）。在左下角区域聚集了若干暗色斑点/斑块，后向散射减弱，与周围海面形成对比。中心底部附近有微弱的白色细线。左下区域的暗色斑点集群可能是溢油碎片化分布的表现，多处小型暗色 slick 聚集在同一区域。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左下（2处）\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/258.png",
+    "response": "<analysis>\nSAR图像左侧存在密集的暗色分支状/丝状结构，具有锐利边缘和向外延伸的细丝，暗色结构间散布着明亮的点状目标（可能为船只）。右侧为较均匀的灰色区域，有微弱的对角线条纹和稀疏亮点。左侧的暗色分支结构后向散射显著减弱，形态复杂但边界可辨，符合大面积溢油在SAR中的表现——暗色异常区域呈不规则分支状分布，可能为油膜在海流和风作用下的扩散形态。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左中（2处）\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/264.png",
+    "response": "<analysis>\nSAR图像左上角有大面积白色区域（数据缺失）。其余部分为颗粒状灰色纹理，散布着亮白色十字形斑点（传感器噪声或点目标）。在左下和右中区域可见微弱的暗色线性条纹/痕迹，后向散射略有减弱。但这些暗色特征较为微弱，边界不够清晰，可能为传感器条带效应或海面自然变化。整体海面纹理不够均匀，但缺乏典型的明确溢油形态。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左下、右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/274.png",
+    "response": "<analysis>\nSAR图像呈现颗粒状灰色纹理，具有柔和的漫射阴影和高光变化。左上和右下区域可见微弱的圆形或不规则形状痕迹。整体灰度变化较为渐进，无明显后向散射减弱的暗色异常区域。海面纹理相对均匀，未见典型的溢油形态（椭圆、条状或块状暗区）。图像中的微弱形状更可能是海面自然纹理变化而非溢油特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/280.png",
+    "response": "<analysis>\nSAR图像显示类似卫星俯视图的特征，可见云系/地表形态。但图像严重受损，全图散布着大量白色方块伪影（数据块丢失），严重遮挡了地表信息。可见深色区域（可能为海洋）和浅色区域（云系或陆地），但由于大面积数据缺失，无法可靠地识别溢油的暗色异常区域。图像质量不足以进行有效的溢油检测。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/283.png",
+    "response": "<analysis>\nSAR图像大致分为两个垂直区域：左侧稍亮且纹理平滑，右侧噪声较多并有散落的明亮斑点（其中一个显著的星形闪光位于右上）。在中心偏右区域存在一个微弱的暗色弯曲形状，呈S形或钩状，后向散射略有减弱。该暗色弯曲特征可能代表一处小型溢油 slick，但特征较为微弱。整体海面纹理以颗粒状噪声为主，暗色弯曲区域是唯一的潜在异常。</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/401.png",
+    "response": "<analysis>\n该SAR图像整体呈现从左下到右上的灰度渐变。右上角区域存在一处大面积暗色异常区域，后向散射明显减弱，纹理比周围海面更平滑，边界较为清晰可辨。此外，在图像中心附近还有一处较小的暗色斑点，与周围海面灰度形成对比。两处暗区均符合溢油在SAR图像中的典型特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右上、正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/402.png",
+    "response": "<analysis>\n该SAR图像整体为灰色调，表面布满细小噪点。在右下象限可见一处不规则暗色区域，后向散射明显低于周围海面，纹理较平滑，与正常海面存在可辨识的灰度差异。该暗色异常区域的形态和SAR特征符合溢油表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/403.png",
+    "response": "<analysis>\n该SAR图像存在较多散点噪声，但可辨识出两处暗色异常区域。一处位于右下象限，呈不规则暗斑状，后向散射减弱明显；另一处位于左中偏中部区域，呈条状暗带。两处暗区纹理均比周围海面平滑，边界虽受噪声影响但仍可识别，符合溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右下、左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/409.png",
+    "response": "<analysis>\n该SAR图像上半部分显示海面纹理，带有 faint 对角线条纹和散点噪声，下半部分为大面积白色区域，边界呈锯齿状不规则形态。白色区域可能为陆地或数据缺失区域，并非溢油特征。上半部分可见海面区域灰度相对均匀，未见明显的暗色异常区域。整体来看，图像中海面部分无显著溢油信号。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/417.png",
+    "response": "<analysis>\n该SAR图像左上方和中部偏左区域呈现不规则暗色斑块，后向散射较弱，与右侧较亮海面形成对比。右下象限为大面积白色区域（可能为陆地或海岸线）。海面区域的暗色斑块纹理较平滑，边界可辨识，形态呈块状分布，符合溢油在SAR图像中的暗色异常表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/452.png",
+    "response": "<analysis>\n该SAR图像大部分区域为均匀的浅灰色海面，纹理细腻且灰度一致。在右下象限有一处明显的黑色不规则斑块，后向散射极弱，与周围明亮海面形成强烈对比，边界清晰。该暗色异常区域形态呈块状，符合典型溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/454.png",
+    "response": "<analysis>\n该SAR图像噪声较重，右下部分存在大面积白色切割区域（可能为陆地或数据缺失）。在图像中部区域可见微弱的暗色条纹，后向散射略有减弱，纹理比周围稍平滑。虽然信号不太强烈，但暗色异常与周围海面仍存在可辨识的灰度差异，符合轻度溢油的SAR表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/473.png",
+    "response": "<analysis>\n该SAR图像对比度较高，左上象限存在白色像素化块状伪影。图像中部偏下区域有一处显著的暗色不规则区域，呈略带弧形的块状，后向散射明显减弱，纹理平滑。周围有散点状亮斑（可能为传感器噪声）。该暗色异常区域边界较清晰，形态和SAR特征均符合溢油表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/478.png",
+    "response": "<analysis>\n该SAR图像为卫星遥感俯视图，左侧明显偏暗，右侧较亮。图像中存在十字形传感器伪影（亮斑带辐射线）。在中心偏左区域可见不规则暗色斑块，后向散射弱于周围海面，纹理较平滑。虽然图像整体对比度变化较大，但该暗色区域的形态和灰度特征符合溢油SAR表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/483.png",
+    "response": "<analysis>\n该SAR图像左侧约三分之一为大面积白色区域，边界呈锯齿状不规则形态，可能为陆地或数据缺失。右侧三分之二为灰色海面，整体噪声较大。在中右部区域可见微弱的暗色阴影，后向散射略有减弱，但信号不够强烈。综合判断存在一处弱溢油信号。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/490.png",
+    "response": "<analysis>\n该SAR图像整体呈水平和对角线方向的条纹纹理，为海面背景噪声。在图像中心位置有一处小型暗色不规则异常，呈短弧线状黑色痕迹，后向散射明显减弱，与周围海面灰度形成对比。该暗色异常虽然面积不大，但形态和SAR特征符合小规模溢油表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/501.png",
+    "response": "<analysis>\n该SAR图像上半部分灰度较均匀，有少量亮斑噪声。下半部分存在多处暗色异常：中左部有一处明显的暗色斑块；中下部可见数条平行暗色短线；右下部有刷状暗色条纹群。这些暗色区域后向散射减弱，纹理比周围海面平滑，分布在海面不同位置，符合多处溢油的SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：左中、中下、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/561.png",
+    "response": "<analysis>\n该SAR图像存在散点状亮斑（部分带有衍射十字纹）和暗色条纹。背景灰度从左上较暗过渡到右下较亮。右上象限有一处大面积亮色不规则区域（可能为陆地或强反射体）。图像中部区域可见暗色条带状异常，后向散射弱于周围海面，纹理较平滑，符合溢油在SAR图像中的条状暗色特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/567.png",
+    "response": "<analysis>\n该SAR图像大部分区域为白色（上部和左侧），仅右下部分保留有纹理化的灰色海面区域。在右下海面区域内可见暗色线状痕迹和散点噪声（十字形闪光伪影）。由于图像大面积缺失有效数据，仅在右下小范围海面区域可观察到微弱的暗色异常，后向散射有所减弱，可能为溢油残留信号。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/570.png",
+    "response": "<analysis>\n该SAR图像整体为浅灰色调，纹理细腻均匀。在图像中上部（约上方三分之一处居中位置）可见一条短小的暗色水平线状异常，后向散射略有减弱。此外有微弱的对角线方向条纹。该暗色线状特征虽不明显，但与周围海面存在可辨识的灰度差异，符合小规模溢油的SAR表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/575.png",
+    "response": "<analysis>\n该SAR图像整体纹理非常均匀，呈细腻的灰白色颗粒状噪声。左侧和左上区域可见微弱的暗色斑点和条纹，后向散射略有减弱，但与周围海面的灰度差异不太显著。整体来看，暗色异常信号较弱，但仍存在可辨识的微弱溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/580.png",
+    "response": "<analysis>\n该SAR图像对比度较高，纹理粗糙。左侧存在一处显著的暗色弧形特征，从左上角向下延伸，呈刷状/条状，后向散射明显减弱，纹理比周围海面平滑，边界较为清晰。右侧对比度更高，暗色区域更深。该暗色弧形特征形态和SAR特征均符合大面积溢油表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/591.png",
+    "response": "<analysis>\n该SAR图像整体呈对角线方向的波纹/脊状纹理，灰度分布较为均匀。在右上象限可见微弱的暗色不规则线状痕迹，后向散射略有减弱，但信号不太强烈。该暗色异常与周围海面存在细微灰度差异，可能为轻度溢油信号。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/595.png",
+    "response": "<analysis>\n该SAR图像噪声较重，整体呈颗粒状灰色调。在右上象限可见两处小型暗色不规则斑块，后向散射减弱，纹理较周围海面平滑。此外在右下边缘附近还有一处微小的暗色标记。三处暗色异常均符合溢油在SAR图像中的暗斑特征，其中右上两处较为明显。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：右上（2处）、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/610.png",
+    "response": "<analysis>\n该SAR图像对比度较高。在图像上部约三分之一处存在一条显著的粗大锯齿状暗色水平裂缝状特征，带有分支延伸和暗色斑块。其下方还有一条较细的暗色水平线。这些暗色线状特征后向散射明显减弱，形态呈条带状分布，边界可辨识，符合溢油形成的条状暗色异常SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：中上、正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/615.png",
+    "response": "<analysis>\n该SAR图像左侧呈现水平方向的条纹状纹理（可能为海面波纹），灰度较均匀。右侧存在高对比度的碎片化区域：右下部分有一处大面积暗色不规则区域，边缘不规则且内部有斑点；中部偏右有一组垂直排列的暗色锯齿状斑块；右上部分有白色方块状伪影。右侧的暗色异常区域后向散射减弱明显，符合溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右中、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/622.png",
+    "response": "<analysis>\n该SAR图像整体噪声较重，呈颗粒状灰白色调。在左下象限可见一处小型暗色不规则斑块，形似剪影状，后向散射明显减弱，与周围海面灰度形成对比。该暗色异常区域形态呈块状，边界虽受噪声影响但仍可辨识，符合溢油在SAR图像中的暗斑特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/633.png",
+    "response": "<analysis>\n该SAR图像噪声极重，整体呈高度颗粒化的灰度纹理。在图像上部可见两处小型暗色不规则斑块，分别位于左上角和右上角附近，后向散射有所减弱。左下象限有一处大面积弧形浅色区域，可能为传感器扫描边缘效应。上部两处暗斑虽然信号较弱，但仍可辨识为暗色异常，符合溢油SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左上、右上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/67.png",
+    "response": "<analysis>\n该SAR图像背景为均匀的浅灰色调，纹理细腻。在图像中心区域聚集有多处暗色不规则斑块，包括几处无定形暗色污迹、右侧一条明显的暗色短线、以及左侧一处微小暗斑。这些暗色异常后向散射减弱，纹理比周围海面平滑，集中分布在中心区域，符合溢油在SAR图像中的暗色异常表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：正中（2处）、右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/674.png",
+    "response": "<analysis>\n该SAR图像对比度较高，存在多个散点状亮斑（部分带有衍射十字纹）。图像中部偏左区域集中分布有多条暗色不规则线状和分支状结构，后向散射明显减弱，呈丝状/裂缝状形态。从左下向中部还延伸有一条浅色弧线。中左部的暗色丝状结构形态和SAR特征符合溢油形成的暗色异常。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/677.png",
+    "response": "<analysis>\n该SAR图像噪声较重，整体呈颗粒状灰度纹理，存在从左到右的微弱灰度渐变（左侧偏暗，右侧偏亮）。在左上区域有一处暗色不规则区域，从图像顶部边缘向中部偏左方向斜向延伸，后向散射减弱明显，纹理比周围海面平滑。右半部散在分布有若干亮斑噪声。该暗色斜向特征的形态和SAR特征符合溢油表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/680.png",
+    "response": "<analysis>\n该SAR图像质量严重退化，存在大面积白色斑块和像素化伪影，左下区域有大片白色遮蔽。在剩余可见的灰色海面区域中，可以观察到若干暗色不规则斑块，这些区域后向散射明显减弱，纹理比周围海面更平滑，具有溢油的SAR特征。暗色斑块主要分布在图像中部和右侧区域，边界可辨识，形态呈块状。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：正中、右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/701.png",
+    "response": "<analysis>\n该SAR图像显示了一个大面积的遥感海面场景。左上方存在大片高亮白色区域（可能为陆地或冰面），中心偏左区域可见明显的暗色分支状线形图案，形态类似排水网络或河道。这些暗色特征的后向散射显著低于周围海面，纹理平滑，边界清晰，符合溢油沿水面通道分布的SAR特征。右侧和底部为中等灰度的海面纹理，散布有白色斑块。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/720.png",
+    "response": "<analysis>\n该SAR图像整体呈纹理化的灰色背景，右上方象限存在一个显著的暗色无定形斑块。该暗色区域边缘柔和、扩散状，内部后向散射明显减弱，与周围较亮的海面纹理形成鲜明对比。这是典型的SAR溢油信号——油膜抑制海面毛细波导致回波降低。暗色斑块形态为不规则块状，面积较大，边界可辨识。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/724.png",
+    "response": "<analysis>\n该SAR图像整体为颗粒状浅灰色海面背景，纹理较为均匀。在右上角存在一个暗色不规则分支状形态，与周围浅色海面形成明显对比。该暗色区域后向散射减弱，纹理比正常海面平滑，边界可辨识，符合溢油在SAR图像中的典型表现。其余区域海面灰度相对均匀，无其他明显异常。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/735.png",
+    "response": "<analysis>\n该SAR图像噪声较重，整体呈颗粒状灰色纹理。中部偏左存在一条垂直亮纹（可能为传感器条纹伪影），其附近可见微弱的暗色异常标记。图像右侧边缘不规则。尽管图像质量较差，但在中部区域仍可辨识出微弱的暗色异常，后向散射略低于周围海面，可能为较轻微的溢油信号。整体判断为存在微弱溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：正中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/748.png",
+    "response": "<analysis>\n该SAR图像在颗粒状灰色背景上分布着多个暗色不规则形状。中上方有一个显著的纵向暗色形态，窄上宽下，类似倒置的T形；左侧有短水平暗线和弧形暗条；右侧有两条小型平行弧形暗线。底部中心有一较亮的扩散区域。这些暗色区域后向散射减弱、纹理平滑，符合多处溢油的SAR特征。共识别出3处独立的溢油区域。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：中上、左中、右中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/765.png",
+    "response": "<analysis>\n该SAR图像噪声严重，整体呈颗粒状灰色纹理，类似粗糙表面。在重噪声背景下仍可辨识出若干小型不规则暗色斑块，分散分布在图像不同位置。这些暗色区域表现为后向散射减弱的凹陷状特征，与周围海面存在灰度差异。中部偏右有一个微弱亮斑。综合判断存在多处小型溢油区域，散布于图像各处。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：左上、正中、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/776.png",
+    "response": "<analysis>\n该SAR图像显示颗粒状灰色背景上分布着不规则的暗色分支状图案，形态类似裂纹、脉络或有机丝状结构。部分暗色线条细而蜿蜒，部分较粗呈笔触状，在中下方区域形成明显的暗色聚集区。右上方有两个小型亮白点。这些暗色分支形态具有油膜在SAR图像中的典型特征——后向散射减弱、纹理平滑，且呈现复杂的延展形状。主要溢油区域位于中部和中下方。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：正中、中下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/783.png",
+    "response": "<analysis>\n该SAR图像以细密颗粒噪声为主，整体呈灰白色调。上方中心偏左有一个微弱的亮色 elongated 区域，左侧边缘可见一条细长的暗色对角线特征。该暗色线性特征后向散射减弱，可能是溢油在SAR图像中的微弱信号。右下方有微妙的色调变化但无可辨识形态。整体图像噪声较大，溢油信号较弱，但左侧暗色线性特征仍可辨识。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/791.png",
+    "response": "<analysis>\n该SAR图像整体为噪声较大的颗粒状灰色纹理，散布有微弱的垂直和对角线方向条纹。图像中部偏左有一条微弱的暗色线性特征，可能是溢油导致的后向散射减弱信号。周围海面灰度虽有噪声波动但整体较均匀。图像质量较差，溢油信号微弱，但左侧的暗色线性异常仍可辨识为潜在的溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/793.png",
+    "response": "<analysis>\n该SAR图像在颗粒状灰色背景上分布着散布的不规则暗色形状和线条。上方区域有若干小型断开的暗色斑点和短弧线条；右侧有显著的分支状暗色形态，线条较粗且向下延伸，类似裂纹或有机触手状结构；左下方有稀疏的细暗线和污迹。这些暗色特征后向散射减弱、纹理平滑，符合溢油的SAR特征。共识别出3处独立的溢油区域。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：中上、右中、左下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/803.png",
+    "response": "<analysis>\n该SAR图像在浅灰色颗粒状背景上散布着若干暗色不规则碎片状标记。左下方有一条较长的微弯暗色笔触，末端有小型分支延伸；中部有一条短垂直暗线；中上方有两个小型断开暗色笔触；右上方有一个微弱的短对角线暗色标记。这些散布的暗色特征后向散射减弱，形态各异但边界可辨识，符合多处溢油的SAR表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：4\n3. 位置：中上、右上、正中、左下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/809.png",
+    "response": "<analysis>\n该SAR图像在左上方象限存在一个显著的暗色不规则纵向特征，形态类似裂缝或沟渠，轮廓不均匀且略带锯齿状。该暗色区域后向散射明显减弱，与周围颗粒状灰色海面形成鲜明对比，边界清晰可辨识。左下方有若干亮白点（带十字衍射芒），可能为传感器伪影。中部和右侧海面灰度较均匀。主溢油区域位于左上象限。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/812.png",
+    "response": "<analysis>\n该SAR图像整体呈均匀的颗粒状灰色纹理，带有微弱的对角线条纹 pattern。中部偏下位置有一条细暗色垂直线，其右侧有一个小型白色十字标记（可能为标注点）。该暗色垂直线后向散射略有减弱，可能是窄条状溢油特征。周围海面灰度较为均匀，无其他明显异常。溢油信号较微弱但可辨识。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/813.png",
+    "response": "<analysis>\n该SAR图像整体呈现从左到右由浅至深的灰度渐变。左上方区域有一个小型暗色新月形特征，在较浅的背景上较为突出。底部中心附近有一个小型白色十字标记。该暗色新月形特征后向散射减弱，形态小巧但边界可辨识，符合小型溢油斑的SAR特征。其余区域海面灰度渐变均匀，无其他异常。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/829.png",
+    "response": "<analysis>\n该SAR图像在颗粒状灰色背景上散布着多处暗色不规则标记。中上方有一条细微弯暗线；左侧有两条长短不一的垂直暗色条纹，旁边还有密集短竖线簇；左下方有一个暗色 elongated 形状带微弯；右下方有一个短粗不规则暗色标记，类似小脚印或撕裂碎片。这些暗色特征后向散射减弱，分布在不同方位，符合多处溢油的SAR表现。中部偏右有微弱亮点和弧线。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：4\n3. 位置：中上、左中、左下、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/905.png",
+    "response": "<analysis>\n该SAR图像左侧边缘存在一条显著的暗色不规则纵向线条，形态类似裂缝或折痕，轮廓不均匀略带锯齿状。该暗色特征从图像上方延伸至下方，后向散射明显减弱，与周围颗粒状灰色海面形成对比。中部偏右有一条较浅的 washed-out 纵向条带，可能为传感器条带伪影。溢油信号主要集中在左侧边缘的暗色线条区域。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/104.png",
+    "response": "<analysis>\n该SAR图像整体呈垂直分区结构：左侧为较均匀浅灰色区域，右侧为较深色纹理区域。右侧有暗色脉络状/裂纹状图案，但这些为自然地表纹理特征而非海面溢油。上方中心有一个小型白色方块标记。右下方有大面积扩散状白灰色形状。整体来看，图像呈现的是不同类型地表（如陆地/水体边界）的自然过渡，海面灰度变化为大尺度区域性差异，无局部暗色异常斑块，不符合溢油的SAR特征。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/116.png",
+    "response": "<analysis>\n该SAR图像右侧为大范围均匀暗色区域，左侧为稍浅的纹理区域，两者之间有微弱的垂直分界。底部边缘有不规则的白色/浅灰色斑块（可能为云层或地表覆盖特征）。右侧暗色区域呈对角线条纹 pattern，属于大尺度色调变化而非局部化的溢油暗斑。整体灰度变化为区域性特征，无具有可辨识边界的局部暗色异常，不符合溢油的SAR表现。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/127.png",
+    "response": "<analysis>\n该SAR图像为部分遮蔽图像，左上方约三分之二为纯白色空白区域，右下方有一条对角线边界过渡到颗粒状灰色纹理区域。灰色区域中存在一些较暗斑块，但这些为正常表面纹理变化和噪声伪影，不具备溢油暗色异常区的典型形态（椭圆/条状/块状）和可辨识边界。整体图像信息不完整，无溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/13.png",
+    "response": "<analysis>\n该SAR图像整体为高纹理颗粒状灰度图像，中部偏右有一条纵向边界将图像分为两个不同纹理区域：左侧较平滑呈渐变灰度，右侧纹理更粗糙均匀。沿边界线散布有暗色斑点和白色碎屑。这种纹理突变代表自然地表类型边界（如陆地/水体界面），并非海面溢油导致的后向散射异常。图像无局部化暗色平滑斑块，海面灰度变化为自然地表特征。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/148.png",
+    "response": "<analysis>\n该SAR图像为俯视遥感图像，显示自然地表情景。图像中叠加了两个小型白色方块标记（兴趣点标注）。左上方有亮白色斑块（可能为云层或高反射表面），中部偏右有较暗纹理带（可能为地形或植被特征），下方逐渐过渡为纯白色（数据边界或遮蔽区域）。整体呈现自然地形灰度变化，无局部化暗色平滑异常区域，不符合溢油在SAR图像中的表现特征。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/172.png",
+    "response": "<analysis>\n该SAR图像显示的是极地或高纬度地区的遥感场景。图像中大面积白色/浅灰色区域代表冰雪覆盖，暗色斑块代表裸露岩石或水体。左上方有暗色分支状特征（冰川裂隙或冰川流纹），中部偏左有两个白色矩形特征（冰面特征或传感器噪声），右下方有暗色不规则斑块。底部中心有深色弧形切入。这些均为自然的地质/冰川/极地特征，非海面溢油信号。图像整体为冰陆混合场景，无海面溢油。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/180.png",
+    "response": "<analysis>\n该SAR图像显示了一个疑似火山喷发场景。中央有大量明亮的白色物质柱（火山灰/蒸汽/火山碎屑流）从暗色不规则底部升起并向外扩展。周围地形为灰色纹理，明暗交替。左上方有若干小型白色矩形（传感器伪影或云片）。整体图像呈现的是火山/地质活动的遥感特征，中央明亮区域为高温或高反射源，暗色区域为岩石/地形，不是海面溢油的后向散射异常。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/185.png",
+    "response": "<analysis>\n该SAR图像中央有一个显著的大型圆形地质构造（火山口或撞击坑），内部明亮且纹理丰富，可能代表活跃的火山活动（熔岩穹丘、火山灰沉积或蒸汽）。周围为不规则暗色地形和明暗交替的地表。上方有大面积黑色区域（可能为深水或传感器噪声），左侧有锯齿状明暗边界（海岸线或断层）。这些均为地质/火山特征，不存在海面溢油的后向散射异常。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/196.png",
+    "response": "<analysis>\n该SAR图像显示了一个大型自然热事件场景（野火或火山喷发）。中部偏上有大面积不规则明亮白色/浅灰色羽状体（烟雾/火山灰/火焰），向周围扩散覆盖在暗色纹理地表之上。右下方有一个较小的独立亮点（次级热点）。周围地表为颗粒状暗灰色，代表植被或地表覆盖。整体呈现的是热事件/火灾的遥感特征，明亮区域为高温或强反射源，暗色区域为正常地表，不存在海面溢油信号。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/198.png",
+    "response": "<analysis>\n该图像呈灰度颗粒状纹理，左上方有大面积白色区域（可能为数据缺失或遮罩），主体为中等灰色的纹理场，具有细微的线性条纹。右下角有较暗的高对比度纹理区域。整体呈现自然表面纹理特征，无边界清晰的平滑暗色异常区域。白色区域为数据缺失而非海面特征，灰色纹理区域的暗色变化为自然粗糙度差异，非溢油信号。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/20.png",
+    "response": "<analysis>\n该SAR图像呈现地形特征，具有从左上到右下的对角线条带模式。暗色区域呈 elongated 不规则形状，亮色区域形成对比鲜明的条纹和斑块。整体为山脉、山谷或河流系统的地形纹理，非开阔海面场景。图像中的暗色区域为自然地形阴影或植被覆盖，不具有溢油在SAR中的典型平滑暗色特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/201.png",
+    "response": "<analysis>\n该图像为灰度卫星或天文遥感图像，呈现斑驳表面。上部为暗色区域，散布有十字形亮斑（传感器噪声或宇宙射线）。右侧有大面积高对比度明亮区域（可能为云层、冰盖或反射面）。左下角有较浅灰色地形，带有细微分支线性纹理。左下区域有一个小型白色方块标记。整体非开阔海面场景，明亮和暗色区域均为自然地理或大气特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/22.png",
+    "response": "<analysis>\n该图像为低分辨率灰度图像，纹理高度抽象。左上方有一个明亮不规则区域伴有暗色斑点，右上方有暗色线性纹理，右下方有一个圆形较亮形状。整体为噪声化的灰色背景，无可辨识的海面结构。图像缺乏开阔海面的典型SAR特征，无法辨识出具有溢油特征的平滑暗色异常区域。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/2222.png",
+    "response": "<analysis>\n该SAR卫星图像显示大气和地表特征，中央有大面积暗色区域（可能为密密云层系统、阴影地形或海洋区域）。有微弱的线性条纹和渐变，暗示云层运动或大气分层。左上方有一个小亮点（可能为反射或传感器伪影）。右下方有微弱的弧形亮色形状。整体为大气/气象卫星图像，暗色区域为自然云层或地形特征，非溢油信号。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/2240.png",
+    "response": "<analysis>\n该图像左侧为暗色近黑色区域，具有粗糙的有机纹理，散布有小型亮斑。向右和向下逐渐过渡为较浅灰色调，呈斑驳模式。整体为均匀颗粒状纹理，暗色区域与浅色区域之间为渐变过渡，无锐利边界。图像呈现自然表面（如树皮、岩石或积雪）的纹理特征，非开阔海面场景，不存在溢油特有的平滑暗色异常区域。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/2254.png",
+    "response": "<analysis>\n该图像呈现有机漩涡状图案，类似云层、烟雾或天然石材表面。左上方色调较暗且集中，中央和右侧为较浅的灰色和白色，有细微的同心或波浪状线条。整体为颗粒状纹理，从左上到右下逐渐变浅。暗色区域为自然浓度变化，无边界清晰的平滑区域。图像更像大气现象或自然材质的特写，非海面溢油场景。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/23.png",
+    "response": "<analysis>\n该图像为低分辨率灰度图像，呈现粗糙表面纹理，色调变化不均匀。左侧有一个显著的椭圆形白色空白区域，右侧边缘有较小的白色碎片。整体为斑驳的灰色背景，噪声严重。白色区域为数据缺失或高光伪影，灰色区域的暗色变化为自然粗糙表面特征，不具有溢油在SAR中的典型平滑暗色异常特征。非开阔海面场景。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/27.png",
+    "response": "<analysis>\n该SAR图像显示一个大型明亮不规则质量，从右上方向左下方对角线延伸，可能为云层、雪覆地形或烟/灰羽流。明亮区域与暗色颗粒状背景形成强烈对比。下方有散布的较小亮斑和暗色斑块。整体为大气或地表特征，明亮区域为高反射率目标（云/雪/羽流），暗色背景为自然地形纹理。非开阔海面溢油场景。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/273.png",
+    "response": "<analysis>\n该灰度卫星图像显示大面积纹理化的陆地和云层特征。图像以明亮的白色漩涡状云层（或积雪）与暗色灰色区域（陆地、水体或阴影）的对比为主。左上方为较平滑的暗灰色调，右侧为较弥散的浅灰色区域。整体为天气卫星或遥感图像中的云层和地形图案，非开阔海面场景。暗色区域为自然地形或阴影，非溢油信号。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/306.png",
+    "response": "<analysis>\n该图像为低分辨率灰度图像，全图覆盖严重噪声/颗粒。从左上的浅灰色渐变到左下的暗灰色，左侧有一个大型无定形暗色形状，其下缘有少量白色斑点。右侧有少量小型亮斑散布。整体为高度退化的表面纹理，无可辨识的海面结构或溢油特征。暗色区域为自然纹理变化，非平滑暗色异常。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/308.png",
+    "response": "<analysis>\n该图像为低分辨率灰度图像，全图有均匀的细密颗粒噪声，呈现类似扫描文档或传感器输出的外观。左下象限有一簇较大的不规则明亮白色斑块（云状），右下角有一个较小的孤立亮点。整体缺乏可辨识的海面结构，无边界清晰的平滑暗色异常区域。亮斑和暗色变化均为噪声或自然纹理特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/309.png",
+    "response": "<analysis>\n该图像为灰度图像，背景为均匀的中灰色，带有细微的色调变化和颗粒噪声。左上方有一簇不规则的白色和深灰色斑块（可能为伪影、污渍或褪色图形残迹）。右侧有微弱的垂直渐变或阴影。散布的小型亮斑可能为噪声或灰尘。整体缺乏可辨识的海面结构或功能性内容，无可识别的溢油暗色异常区域。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/316.png",
+    "response": "<analysis>\n该SAR卫星图像显示一个海岸线场景，右侧为陆地（具有不同灰度变化，指示高程、植被或地表材质差异），左侧为纯白色区域（海洋或数据裁剪区域）。海岸线边界不规则且锯齿状，有可见的海湾和半岛。陆地表面有颗粒状像素化纹理，可见微弱的线性特征（道路或河流）。整体为海岸地理特征图像，白色区域为开阔水面但无暗色异常，不存在溢油信号。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/320.png",
+    "response": "<analysis>\n该图像为灰度低分辨率遥感图像，呈现不规则的亮白和暗灰斑块图案。顶部区域有更多对比度的团块状白色和深灰色区域（可能为云层或地貌特征），中下部为较均匀的中灰色，具有细微色调变化。整体缺乏清晰的海洋表面结构，暗色和亮色区域为自然地形或云层特征，非溢油暗色异常。无边界清晰的平滑暗色区域。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/379.png",
+    "response": "<analysis>\n该SAR卫星图像显示一个海岸/海岸线区域。左侧为暗色纹理陆地（密林或阴影地形），右侧为较浅的均匀纹理区域（开阔地或浅水）。中部有一条锯齿状不规则分界线（海岸线或山脊边缘）。右侧浅色区域内散布有几个明亮的白色团块（云层、冰或高反射面）。整体为自然地理景观，暗色区域为植被覆盖的陆地而非溢油海面，不存在溢油特征。</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/286.png",
+    "response": "<analysis>\n该SAR图像整体呈现灰度均匀的纹理，但在图像中下区域可见微弱的暗色条带状异常，纹理比周围海面更平滑，边界较为模糊。这些暗色异常区域呈有机形态分布，后向散射信号减弱，符合油膜在SAR图像中的典型特征。周围正常海面灰度相对均匀，未见其他明显异常。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：中下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/300.png",
+    "response": "<analysis>\n该SAR图像中可见一条明显的暗色对角线状异常区域，从左上方延伸至右中方，边界清晰可辨，纹理比正常海面显著平滑。暗色区域后向散射明显减弱，形态呈条带状分布，符合溢油在SAR图像中的典型表现。图像中散布若干亮点，为正常海面的强散射点。暗色异常区域的形态和SAR特征均指向油膜存在。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：左上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/311.png",
+    "response": "<analysis>\n该SAR图像呈现明显的左右分区特征。左侧为高亮度区域（接近白色），右侧为大面积暗色区域，边界锯齿状且清晰可辨。暗色区域占据图像右半部分，后向散射显著减弱，纹理比左侧海面更加平滑均匀，内部可见零星亮点。大面积暗色异常区域在SAR图像中表现为典型的油膜覆盖特征，油膜抑制了海面毛细波导致后向散射降低。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：1\n3. 位置：右中、右下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/327.png",
+    "response": "<analysis>\n该SAR图像中可见两处明显的暗色异常区域。第一处位于左上方，呈 elongated 弯曲形态，类似丝状或带状分布，边界较为清晰；第二处位于其下方（左中区域），形态更紧凑，呈不规则块状。两处暗色区域后向散射均明显弱于周围海面，纹理平滑，符合油膜的SAR影像特征。图像中散布若干亮点为正常海面散射。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：左上、左中\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/333.png",
+    "response": "<analysis>\n该SAR图像中可识别出两处暗色异常区域。第一处位于右下方，呈明显的 elongated 暗色形态，具有一定延伸性，边界可辨识，后向散射减弱；第二处位于中上方，为较小的暗色斑块。两处区域纹理均比正常海面平滑，符合溢油区域的SAR特征。此外图像中还可见一些线性纹理和网格状结构，但主要暗色异常以上述两处为主。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右下、中上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/341.png",
+    "response": "<analysis>\n该SAR图像整体纹理较为均匀，灰度分布相对一致。图像上边缘可见若干明亮的白色斑块，这些是高后向散射区域或传感器伪影，不属于暗色异常。图像中未观测到明显的暗色平滑区域，海面灰度变化属于正常范围，无溢油特征。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/346.png",
+    "response": "<analysis>\n该SAR图像中可见多处暗色异常区域，主要集中在图像左侧和下方区域。黑色污点和条带聚集成簇分布，后向散射信号减弱，纹理比周围海面更平滑。暗色异常呈现不规则的斑块和条纹形态，边界部分可辨识。在左中、左下和中下区域分别可见暗色聚类，符合油膜在SAR图像中的散布特征。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：3\n3. 位置：左中、左下、中下\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/376.png",
+    "response": "<analysis>\n该SAR图像质量较差，左上方存在大面积白色矩形块（疑似陆地掩模或数据缺失区域），底部可见白色像素簇。中心和右侧区域虽有连续的灰度纹理和微弱线性图案，但受图像伪影和数据损坏影响，未能识别出具有明确边界的暗色平滑异常区域。可见区域内的海面纹理变化在正常范围内。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/385.png",
+    "response": "<analysis>\n该SAR图像背景呈颗粒状纹理，可见多处暗色不规则线性特征和斑块。右下方区域有明显的暗色蜿蜒线条和斑块，后向散射减弱，纹理较周围平滑；右上方区域也可见暗色斑块。中心左侧有一个显著的星芒状亮点（衍射伪影），不影响暗色区域的判断。两处暗色异常区域的形态和SAR特征符合溢油表现。\n</analysis>\n<answer>\n1. 是否有溢油：有\n2. 区域数量：2\n3. 位置：右下、右上\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/40.png",
+    "response": "<analysis>\n该SAR图像整体纹理均匀，呈现颗粒状灰度分布。右上方可见一个暗色区域，但其边缘模糊柔和，呈现自然地形或阴影特征，不具有溢油暗斑的典型清晰边界和平滑纹理。图像中仅有一个微小亮点。整体海面灰度变化属于正常范围，未见具有溢油特征的暗色异常区域。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/43.png",
+    "response": "<analysis>\n该SAR图像显示具有地形特征的灰度变化。左上到中央有一个较大的暗色区域，但其形态呈现地形特征（如熔岩平原或喷射物覆盖层），与油膜的平滑暗色特征不同。右下方有一个清晰的圆形凹陷结构（类似撞击坑），为自然地质特征。整体灰度变化由地形起伏引起，不属于溢油异常。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/44.png",
+    "response": "<analysis>\n该SAR图像整体呈颗粒状纹理。右侧可见两个暗色无定形区域（一个较大的垂直形状在右上方，一个较小的圆形暗斑在右下方），但这些暗色区域边缘模糊，与背景过渡自然，属于海面自然灰度变化，不具有油膜覆盖区的典型平滑纹理和清晰边界特征。左下和中央区域灰度较亮且均匀。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/49.png",
+    "response": "<analysis>\n该SAR图像中心左侧有一个大面积明亮圆形/椭圆形区域，内部包含若干小暗斑。周围为较暗的不规则区域，顶部和右侧有浓密的暗色区域。整体图像呈现自然地表或海面特征，明暗变化由自然地形和表面组成差异引起。未观测到具有溢油特征的平滑暗色异常区域。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/525.png",
+    "response": "<analysis>\n该SAR图像上半部分为暗色天空状背景伴有散在亮点，下半部分显示具有水平层理的脊状地形纹理，底部有大面积白色区域（数据缺失或过曝）。图像呈现明显的地形特征，如沉积岩层或侵蚀纹理，属于自然地表现貌。未观测到海面油膜覆盖的典型暗色平滑异常区域。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/527.png",
+    "response": "<analysis>\n该SAR图像显示具有均匀颗粒状纹理的自然地表，可见小规模脊状和凹陷重复模式。左下方区域色调略深，右上方略浅，但灰度变化呈渐变过渡，属于自然地形阴影变化。整体纹理均匀一致，未见具有油膜特征的突发暗色异常区域或平滑斑块。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/54.png",
+    "response": "<analysis>\n该SAR图像下半部分呈现一致的水平线状纹理，属于正常海面波纹特征。上半部分有若干无定形暗色形状和一个明亮斑块，但这些为自然海面灰度变化或传感器效应，不具有油膜覆盖区的典型平滑暗色区域特征。整体海面纹理分布自然，未见溢油异常。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/73.png",
+    "response": "<analysis>\n该SAR图像呈对角线分割，左侧为深色颗粒状纹理区域伴有散在白色斑点和暗色污点，右侧为大面积过曝白色区域。左中附近有一个小白色方块。左侧区域的灰度变化属于正常海面纹理，白色斑点和暗色污点为传感器噪声或自然散射特征。未见具有油膜特征的平滑暗色异常区域。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/99.png",
+    "response": "<analysis>\n该SAR图像显示海岸或陆海边界场景。左侧为云层覆盖区域，亮度较高；右侧为较平滑的暗灰色海面。下部可见暗色分叉线性特征（河流系统或海岸侵蚀通道），底部中央有一个大面积不规则暗色区域（地形特征或阴影）。海面区域灰度相对均匀，暗色线性特征为自然水系分布，非溢油暗斑。整体为自然海岸场景，无溢油迹象。\n</analysis>\n<answer>\n1. 是否有溢油：无\n2. 区域数量：0\n3. 位置：无\n</answer>"
+  }
+]

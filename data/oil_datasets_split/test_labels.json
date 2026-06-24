@@ -1,0 +1,1074 @@
+[
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1031.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1092.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1100.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1116.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1153.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1173.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1192.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1195.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1214.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1219.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1239.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1259.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1263.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1265.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1275.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1276.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1277.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1284.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1320.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/142.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/143.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1451.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/149.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1490.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1518.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      4,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/157.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/158.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/159.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/160.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1631.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/169.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/1894.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/191.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/195.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/219.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/244.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/254.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/255.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/258.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/264.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/274.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/280.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/283.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/286.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/300.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/311.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/327.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/333.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/341.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/346.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/376.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/385.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      2,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/401.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/402.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/403.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/409.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/417.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/452.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/454.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/473.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/478.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/483.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/490.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/501.png",
+    "os": true,
+    "num": 13,
+    "location": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/561.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/567.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/570.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/575.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/580.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/591.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/595.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/610.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/615.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/622.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/633.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/67.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/674.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/677.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/680.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/701.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/720.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/724.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/735.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/748.png",
+    "os": true,
+    "num": 7,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/765.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/776.png",
+    "os": true,
+    "num": 12,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/783.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/791.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/793.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/803.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/809.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/812.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/813.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/829.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      0,
+      1,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/os/image/905.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/104.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/116.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/127.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/13.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/148.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/172.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/180.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/185.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/196.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/198.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/20.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/201.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/22.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/2222.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/2240.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/2254.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/23.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/27.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/273.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/306.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/308.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/309.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/316.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/320.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/379.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/40.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/43.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/44.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/49.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/525.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/527.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/54.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/73.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/test/no_os/image/99.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  }
+]

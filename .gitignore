@@ -1,0 +1,9 @@
+*.pyc
+.claude/
+.agents/
+.idea/
+.vscode/
+*.safetensors
+output/lora_weights/
+qwen3-vl-8b-instruct/
+data/oil_datasets_origin

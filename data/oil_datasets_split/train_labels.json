@@ -1,0 +1,4318 @@
+[
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1002.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1017.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1020.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1021.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1028.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1067.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1070.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1082.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1084.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1096.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1098.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1107.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/112.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/113.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1136.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1138.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/114.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1156.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1166.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1170.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1174.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1175.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1178.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1185.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1204.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1205.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1206.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1209.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      3,
+      4,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1215.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1233.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1246.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1254.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1267.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      1,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1268.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1270.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1272.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1278.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1280.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      3,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1281.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1283.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1285.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1286.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1287.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1288.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1294.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1295.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1296.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1297.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1298.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      1,
+      3,
+      4,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1299.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1300.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1303.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1304.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1305.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1306.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1308.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1309.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1310.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1311.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1313.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1314.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1315.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1316.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1317.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1318.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      0,
+      3,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1319.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1333.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1361.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1396.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/140.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1400.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1413.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1416.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/144.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1465.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1485.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1512.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1515.png",
+    "os": true,
+    "num": 13,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1517.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1524.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/154.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1544.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1554.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1559.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/156.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1571.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1574.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/162.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1634.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/164.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/165.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/168.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/170.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1721.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/179.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1865.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1870.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      3,
+      4,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1872.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1874.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1878.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1898.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/193.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1930.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/194.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/1942.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/2.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/207.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/209.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/211.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/213.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/214.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/215.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/217.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/218.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/220.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/222.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/226.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/228.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/229.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/237.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/238.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/240.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/242.png",
+    "os": true,
+    "num": 10,
+    "location": [
+      0,
+      1,
+      2,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/243.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      3,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/246.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/250.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/251.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/252.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/253.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/256.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/257.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/263.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/268.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/269.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/275.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/276.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/277.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/278.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/279.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/292.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/295.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/2962.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/298.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/299.png",
+    "os": true,
+    "num": 11,
+    "location": [
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/304.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/312.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/313.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/315.png",
+    "os": true,
+    "num": 7,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/323.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/324.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/325.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/326.png",
+    "os": true,
+    "num": 12,
+    "location": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/330.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/332.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/334.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/335.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/336.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/337.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/338.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/339.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/344.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/345.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/347.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/348.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/349.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/352.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/354.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/355.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/356.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/357.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/358.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/359.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/360.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/361.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/362.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/363.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/364.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/374.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/375.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/377.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/383.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/384.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/388.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/390.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/391.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/392.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/393.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/394.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/395.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/396.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/399.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/400.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/408.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/410.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/411.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/412.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/413.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/424.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/434.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/436.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/438.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/453.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/455.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/456.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/459.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/465.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/466.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      1,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/467.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/468.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/469.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/471.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/472.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/474.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/475.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/476.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/477.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/482.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/484.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/486.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/487.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/488.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/497.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/500.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/502.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/506.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/507.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/508.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/510.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/511.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/512.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/514.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/516.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      3,
+      4,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/517.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/536.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/540.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/542.png",
+    "os": true,
+    "num": 9,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/544.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/545.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/548.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/557.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/558.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/559.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/560.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      1,
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/562.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/564.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/569.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/574.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/576.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/577.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/578.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/579.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/581.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/583.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/592.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/593.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/596.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/597.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/599.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/600.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/601.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      0,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/609.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/611.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/614.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/621.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/624.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/625.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/634.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/64.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/645.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/646.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/647.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/648.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/649.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/65.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/652.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/655.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/656.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/657.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/66.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/665.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/666.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/667.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/668.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/669.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/670.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/671.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/673.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/676.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/679.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/68.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/689.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/69.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/690.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/700.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/709.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/712.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/713.png",
+    "os": true,
+    "num": 1,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/716.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/717.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/718.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/719.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/72.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/721.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/726.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/727.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/728.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/733.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/734.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/736.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/737.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/738.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      1
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/739.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/740.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/742.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/743.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/746.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/747.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/749.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/752.png",
+    "os": true,
+    "num": 41,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/753.png",
+    "os": true,
+    "num": 18,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/754.png",
+    "os": true,
+    "num": 23,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/755.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/756.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/757.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/759.png",
+    "os": true,
+    "num": 10,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/760.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/761.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/762.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/763.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      0,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/764.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/766.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/768.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/769.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/770.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      0,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/772.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      0,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/773.png",
+    "os": true,
+    "num": 4,
+    "location": [
+      0,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/777.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/778.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/779.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/781.png",
+    "os": true,
+    "num": 7,
+    "location": [
+      0,
+      3,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/782.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/784.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/785.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/786.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/787.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/789.png",
+    "os": true,
+    "num": 6,
+    "location": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/790.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      0,
+      3,
+      4,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/792.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/794.png",
+    "os": true,
+    "num": 18,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/795.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      1,
+      4
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/796.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      4,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/797.png",
+    "os": true,
+    "num": 7,
+    "location": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/798.png",
+    "os": true,
+    "num": 9,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/801.png",
+    "os": true,
+    "num": 22,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/802.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/805.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/806.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/807.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      4,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/810.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/811.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/814.png",
+    "os": true,
+    "num": 7,
+    "location": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/815.png",
+    "os": true,
+    "num": 5,
+    "location": [
+      1,
+      3,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/816.png",
+    "os": true,
+    "num": 3,
+    "location": [
+      3,
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/818.png",
+    "os": true,
+    "num": 2,
+    "location": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/820.png",
+    "os": true,
+    "num": 11,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/821.png",
+    "os": true,
+    "num": 9,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/822.png",
+    "os": true,
+    "num": 15,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/823.png",
+    "os": true,
+    "num": 8,
+    "location": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/824.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/842.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/846.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      6
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/906.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/907.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0,
+      3
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/964.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      0
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/966.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      8
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/979.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      2
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/os/image/995.png",
+    "os": true,
+    "num": 1,
+    "location": [
+      7
+    ]
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/10.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/102.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/103.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/105.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/106.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/107.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/108.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/110.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/117.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/118.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/119.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/120.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/122.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/124.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/125.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/126.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/128.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/129.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/130.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/132.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/133.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/134.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/135.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/136.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/137.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/138.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/15.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/150.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/151.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/16.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/167.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/17.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/171.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/18.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/181.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/184.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/186.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/187.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/188.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/190.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/197.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/199.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/200.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/202.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/203.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/204.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/205.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2091.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2093.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2103.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2118.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2172.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2173.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2181.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2182.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2195.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2249.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2250.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2253.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2263.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/230.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2308.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/233.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/234.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/235.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2408.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2415.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2418.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/25.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/2548.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/26.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/266.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/28.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/294.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/30.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/307.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/31.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/310.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/317.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/32.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/321.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/322.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/328.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/329.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/34.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/35.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/36.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/37.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/372.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/39.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/4.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/42.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/441.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/45.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/462.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/47.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/479.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/480.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/498.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/499.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/5.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/50.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/51.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/52.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/53.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/55.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/553.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/57.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/58.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/59.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/60.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/62.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/620.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/7.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/74.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/76.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/78.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/8.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/81.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/82.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/83.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/84.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/877.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/88.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/9.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/90.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/902.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/92.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/93.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/94.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/95.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/96.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  },
+  {
+    "image": "/home/amax/HDD1/gl_user/GL/oilvlm/data/oil_datasets_split/train/no_os/image/98.png",
+    "os": false,
+    "num": 0,
+    "location": []
+  }
+]
