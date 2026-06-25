@@ -22,6 +22,9 @@ CUDA_VISIBLE_DEVICES = "4,5"
 LORA_R = 64
 LORA_ALPHA = 128
 LORA_DROPOUT = 0.05
+# LORA_TARGET_MODULES = ["q_proj", "k_proj", "v_proj", "o_proj",   # LLM Attention
+#                        "gate_proj", "up_proj", "down_proj"]     # LLM MLP
+
 LORA_TARGET_MODULES = ["q_proj", "k_proj", "v_proj", "o_proj",   # LLM Attention
                        "gate_proj", "up_proj", "down_proj",       # LLM MLP
                        "attn.qkv", "attn.proj",                   # ViT Attention

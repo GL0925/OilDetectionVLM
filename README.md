@@ -1,10 +1,10 @@
-# SAR Oil Spill Detection - VLM Fine-tuning Project
+# 🛰️ SAR Oil Spill Detection - VLM Fine-tuning Project
 
 Qwen3-VL-8B + LoRA based fine-tuning for SAR oil spill detection.
 
 English | [中文](README_CN.md)
 
-## Overview
+## 📋 Overview
 
 This project fine-tunes Qwen3-VL-8B for SAR oil spill detection with structured output. The workflow:
 
@@ -14,7 +14,7 @@ This project fine-tunes Qwen3-VL-8B for SAR oil spill detection with structured 
 
 **Result**: Fine-tuned model outperforms native Qwen-3.7-Max on all metrics.
 
-## Requirements
+## 📦 Requirements
 
 ```bash
 torch>=2.0.0
@@ -25,7 +25,7 @@ matplotlib
 Pillow
 ```
 
-## Dataset
+## 📂 Dataset
 
 ```
 data/oil_datasets_split/
@@ -68,7 +68,7 @@ train_labels.json (Structured labels):
 
 Location codes: 0=top-left, 1=top-center, 2=top-right, 3=center-left, 4=center, 5=center-right, 6=bottom-left, 7=bottom-center, 8=bottom-right
 
-## Configuration
+## ⚙️ Configuration
 
 Key parameters in `config.py`:
 
@@ -83,59 +83,52 @@ Key parameters in `config.py`:
 | LORA_DROPOUT | 0.05 | LoRA dropout |
 | CUDA_VISIBLE_DEVICES | "4,5" | GPU devices |
 
-## Quick Start
+## 🚀 Quick Start
 
-### 1. Download Model
+### 1. 📥 Download Model
 
 ```bash
 # Download qwen3-vl-8b-instruct to project root using modelscope
 modelscope download --model Qwen/Qwen3-VL-8B-Instruct --local_dir ./qwen3-vl-8b-instruct
 ```
 
-### 2. Training
+### 2. 🏋️ Training
 
 ```bash
 python train.py
 ```
 
-### 3. Inference & Evaluation
+### 3. 🔍 Inference & Evaluation
 
 ```bash
 python inference_lora.py
 ```
 
-## Training Results
+## 📊 Training Results
 
-### Before vs After Fine-tuning
+### 📈 Comparison
 
-| Task | Metric | Before | After (LoRA) | Improvement |
-|------|--------|--------|--------------|-------------|
-| **Oil Spill Detection** | Accuracy | 0.6357 | 0.9457 | +0.3100 |
-| | Precision | 0.7143 | 0.9889 | +0.2746 |
-| | Recall | 0.8421 | 0.9368 | +0.0947 |
-| | F1 | 0.7729 | 0.9622 | +0.1893 |
-| **Region Counting** | MAE | 2.0233 | 0.5426 | -1.4807 |
-| | Exact Match | 0.2093 | 0.6124 | +0.4031 |
-| **Location Detection** | Hit Rate | 0.5895 | 0.8842 | +0.2947 |
-| | Exact Match | 0.0632 | 0.4632 | +0.4000 |
-| | Mean IoU | 0.2689 | 0.6860 | +0.4171 |
+| Task | Metric | Baseline | LLM Only | ViT+LLM | Qwen-3.7-Max |
+|------|--------|----------|----------|---------|--------------|
+| **Oil Spill Detection** | Accuracy | 0.6357 | 0.9147 | **0.9457** | 0.8992 |
+| | Precision | 0.7143 | 0.9468 | **0.9889** | 1.0000 |
+| | Recall | 0.8421 | 0.9368 | 0.9368 | 0.8632 |
+| | F1 | 0.7729 | 0.9418 | **0.9622** | 0.9266 |
+| **Region Counting** | MAE | 2.0233 | 0.6434 | **0.5426** | 0.8295 |
+| | Exact Match | 0.2093 | 0.6047 | **0.6124** | 0.5736 |
+| **Location Detection** | Hit Rate | 0.5895 | 0.8526 | **0.8842** | 0.6105 |
+| | Exact Match | 0.0632 | 0.4000 | **0.4632** | 0.1368 |
+| | Mean IoU | 0.2689 | 0.6384 | **0.6860** | 0.3369 |
 
-### Comparison: Qwen-3.7-Max (Native)
+- **Baseline**: Before fine-tuning
+- **LLM Only**: Fine-tune LLM only (freeze ViT)
+  - LLM: q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj
+- **ViT+LLM**: Fine-tune both ViT and LLM
+  - ViT: attn.qkv, attn.proj, linear_fc1, linear_fc2
+  - LLM: q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj
+- **Qwen-3.7-Max**: Official full-power Qwen-3.7-Max
 
-| Task | Metric | Value |
-|------|--------|-------|
-| **Oil Spill Detection** | Accuracy | 0.8992 |
-| | Precision | 1.0000 |
-| | Recall | 0.8632 |
-| | F1 | 0.9266 |
-| | TP/FP/TN/FN | 82/0/34/13 |
-| **Region Counting** | MAE | 0.8295 |
-| | Exact Match | 0.5736 |
-| **Location Detection** | Hit Rate | 0.6105 |
-| | Exact Match | 0.1368 |
-| | Mean IoU | 0.3369 |
-
-### VQA Examples
+### 💡 VQA Examples
 
 **Example 1: Oil Spill (Image 1031.png)**
 
@@ -149,7 +142,7 @@ Model Prediction:
 Scanning the image region by region, 1 dark anomaly was identified in the center-left and bottom-left areas, with moderate size. The regions appear elongated. Based on the distribution and morphological characteristics of the dark anomalies, they match the SAR imaging characteristics of oil spills. Determined to be oil spill.
 </analysis>
 
-- Oil Spill: Yes
+- Oil Spill: Yes ✅
 - Number of regions: 1
 - Location: center-left, bottom-left
 
@@ -166,12 +159,12 @@ Model Prediction:
 Observing the overall gray-level distribution of the sea surface, the texture is uniform with no visible dark anomaly regions. Determined to be no oil spill.
 </analysis>
 
-- Oil Spill: No
+- Oil Spill: No ✅
 - Number of regions: 0
 - Location: N/A
 
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 ├── train.py              # Training script
